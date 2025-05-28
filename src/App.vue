@@ -1,47 +1,26 @@
 <script setup>
-import HelloWorld from './components/HelloWorld.vue'
-import TheWelcome from './components/TheWelcome.vue'
+import ArticleList from './components/ArticleList.vue'
 </script>
 
 <template>
-  <header>
-    <img alt="Vue logo" class="logo" src="./assets/logo.svg" width="125" height="125" />
-
-    <div class="wrapper">
-      <HelloWorld msg="You did it!" />
+  <body>
+    <div class="container">
+      <p style="font-size: 30px;"> Piotr Fedczuk </p>
+      <p>I'm a data and audio journalist based in Chicago. Currently, I work as an investigative reporter 
+        for CU-CitizenAccess.</p>
+      <p>In the past, I've reported for Illinois Public Media and The Daily Illini. At these news organizations, 
+        I've published breaking news, event coverage and scientific articles. </p>
+      <p>You can view my work below. Click on an article to read or listen to it, and click out of it to exit.</p>
+      <ArticleList />
     </div>
-  </header>
-
-  <main>
-    <TheWelcome />
-  </main>
+  </body>
 </template>
 
 <style scoped>
-header {
-  line-height: 1.5;
-}
-
-.logo {
-  display: block;
-  margin: 0 auto 2rem;
-}
-
-@media (min-width: 1024px) {
-  header {
-    display: flex;
-    place-items: center;
-    padding-right: calc(var(--section-gap) / 2);
+  .container {
+    width: 70%;
+    padding: 20px;
+    margin-inline: auto;
+    font-size: 20px;
   }
-
-  .logo {
-    margin: 0 2rem 0 0;
-  }
-
-  header .wrapper {
-    display: flex;
-    place-items: flex-start;
-    flex-wrap: wrap;
-  }
-}
 </style>
