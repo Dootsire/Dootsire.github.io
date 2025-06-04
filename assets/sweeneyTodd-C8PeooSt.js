@@ -1,0 +1,45 @@
+const e=`Parkland Theatre debuts ‘Sweeney Todd’ with biggest cast in recent years
+
+audio,IPM
+
+Lights drenched the stage in the color of blood. The sound of a piercing whistle marked yet another murder by Sweeney Todd.
+
+Parkland Theatre debuted its largest musical in years on April 6, showing “Sweeney Todd: The Demon Barber of Fleet Street.”
+
+HeatherAnn Layman, Parkland Theatre’s operations manager, said two people involved in the original Broadway rendition of "Sweeney Todd" passed away recently.
+
+Angela Lansbury, who played Mrs. Lovett in the Broadway performance, and Stephen Sondheim, the composer and writer for the musical, both died within the last two years, according to an article from “The New York Times.”
+
+“It's just kind of wonderful that we get to do this production to kind of pay tribute to those great artists,” Layman said.
+
+About 80 people signed up for auditions, Layman said, with 27 actors in the final performance.
+
+“This is definitely our biggest production we’ve done this season and one of the bigger productions we’ve probably done in quite some time,” Layman said.
+
+“Sweeney Todd” was Parkland Theatre’s last show for its 2022-2023 season.
+
+To bolster the crowd, Layman said the theater offered season passes and opening night tickets at a discounted price.
+
+“I’m hoping for a sellout (opening night),” Layman said. “We’ve got some wonderful local talent in this show, and so we really hope the community comes out to support these gifted actors.”
+
+Students from the University of Illinois at Urbana-Champaign and Parkland College participate in Parkland Theatre shows, Layman said.
+
+“This has been a wonderful opportunity for our students,” Layman said. “I really hope that they get to share some of that with you and with the community.”
+
+Jeff Dare, director of the musical, said he was happy with how the show turned out.
+
+“This is certainly the biggest and most complex show I’ve ever done,” Dare said. “It’s very exciting.”
+
+The performance was music heavy, having been written by Sondheim, he said.
+
+“He really goes all out in making a show that is deep and complex,” Dare said.
+
+The performance had many moving pieces and hundreds of light cues, which Parkland Theatre had the infrastructure to support, he said.
+
+“Parkland is amazing,” Dare said. “There’s an amazing staff here at Parkland that are helping to support the technical folks, the designers, the crew members and the cast members.”
+
+The cast members poured their energy into acting while also juggling work, he said.
+
+“We’ve got people who are actual barbers and hairdressers in real life,” Dare said. “We’ve got teachers, we’ve got voice teachers, we’ve got people who work in media.
+
+“It’s kind of wonderful to see everyone come together.”`;export{e as default};
