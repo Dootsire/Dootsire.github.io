@@ -49,7 +49,7 @@ const loadText = async () => {
     const asset = await import(`../assets/articles/${props.title}.txt?raw`);
     return asset.default.split('\n');
   } catch (error) {
-    console.error('Error loading asset:', error);
+    console.error('Error loading article:', error);
     return [];
   }
 };

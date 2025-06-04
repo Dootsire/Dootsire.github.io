@@ -1,0 +1,41 @@
+const e=`UI team develops AI to predict enzyme function
+
+audio,IPM
+
+An AI developed by a team from the University of Illinois at Urbana-Champaign outperforms other tools at predicting how enzymes can accelerate chemical reactions. 
+
+Acting as a catalyst in living cells, enzymes are specialized to make a particular chemical reaction occur more quickly, according to the National Human Genome Research Institute
+
+Researchers from the Zhao Group, a team of scientists led by professor Huimin Zhao, published a deep-learning algorithm that can predict an enzyme’s functions based on its amino acid sequences.
+
+The tool, dubbed CLEAN, is available online.
+
+“There are many (enzyme) applications,” Zhao said. “That’s why researchers are very interested in identifying enzymes with the proper functions.”
+
+The applications of CLEAN extend into many industries, he said. Enzymes have been used in food processing, medicine and the treatment of leather, according to Sepmag.
+
+The tool predicts whether an enzyme can function above room temperature, which would remove the need for its refrigeration, Zhao said.
+
+As the algorithm develops, he said his team can continue enhancing its knowledge base with new datasets. 
+
+“Those proteins have never been seen by the machine-learning model, and yet, we can predict the function,” Zhao said. 
+
+In the future, Zhao said he wants to expand this algorithm beyond enzymes and into other proteins.
+
+“I’m very excited for this work,” he said. “I know this is just the beginning.”
+
+Tianhao Yu, a graduate student at the University of Illinois, worked with Zhao and other researchers to create CLEAN.
+
+In the process, Yu said the team had to watch for bias in the data they fed the algorithm.
+
+“If there is a pre-existing bias to the training data that we are not aware of, then the prediction would also be biased,” Yu said.
+
+The enzymes that scientists use in chemistry are well-studied, while unused enzymes have less data, Yu said. 
+
+If the team did not account for the imbalance of data, he said the algorithm would predict common enzymes more often.
+
+To combat this, Yu said the team trained the algorithm on contrastive learning. Rather than comparing the data randomly, the enzymes would be grouped by function. These groups would then be compared against each other.
+
+The database will continue being updated with new data until people lose interest in CLEAN or a new tool comes around to analyze enzyme functions, he said.
+
+“If someone actually develops something, some new enzymes, new functions based on our tools, that would be very exciting,” Yu said.`;export{e as default};
